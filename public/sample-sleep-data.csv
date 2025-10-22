@@ -1,0 +1,6 @@
+date,sleepQuality,heartRate,spo2,motion,snoring,duration,deepSleep,apnea,caffeine,screenTime,exercise,bedtime,wakeTime
+2024-01-25,89,63,97,7,3,470,150,false,1,4,35,22:00,06:10
+2024-01-26,84,66,96,10,4,445,125,false,2,6,20,22:30,06:25
+2024-01-27,78,69,95,12,5,425,110,false,3,7,0,23:00,06:45
+2024-01-28,93,61,98,5,2,495,170,false,0,3,50,21:30,06:05
+2024-01-29,87,65,97,9,3,460,140,false,1,5,40,22:15,06:15
